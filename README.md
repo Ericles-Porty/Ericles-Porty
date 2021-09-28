@@ -1,3 +1,4 @@
+ ![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
  <div>
   <a href="https://github.com/Ericles-Porty">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_rank=true&locale=pt-br"/>
@@ -10,7 +11,6 @@
   <img align="center" alt="Eri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- ![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
   <img align="right" alt="Eri-GIF" height="128" width="128" src="https://cdn.discordapp.com/attachments/727827658964205599/873772799464988732/final.gif">
   
 </div>
