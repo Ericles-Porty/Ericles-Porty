@@ -1,9 +1,9 @@
  ![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
  <div>
   <a href="https://github.com/Ericles-Porty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_rank=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=7&theme=onedark&locale=pt-br"/>
-</div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=7&theme=onedark"/>
+ </div>
 <div style="display: inline_block"><br>  
   <img align="center" alt="Eri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Eri-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
