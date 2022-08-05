@@ -1,3 +1,5 @@
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ericles-Porty%20&fontAlignY=40&color=gradient)
+ 
  ![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
  <div>
   <a href="https://github.com/Ericles-Porty">
