@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
 <!-- ![](https://komarev.com/ghpvc/?username=Ericles-Porty&style=for-the-badge&color=blueviolet)--> 
  <!-- GITHUB STATS -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=senpai-10&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=Ericles-Porty&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | ------------- | ------------- |
 
 <!-- ------------------------------- -->
