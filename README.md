@@ -1,11 +1,15 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ericles-Porty%20&fontAlignY=40&color=gradient)
  
  ![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
+ 
  <div>
   <a href="https://github.com/Ericles-Porty">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=7&theme=dracula"/>
  </div>
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula)
+ 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Eri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Eri-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
