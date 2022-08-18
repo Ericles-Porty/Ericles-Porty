@@ -1,15 +1,7 @@
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ericles-Porty%20&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ericles-Porty%20&fontAlignY=40&color=gradient)
  
- ![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
- 
- <div>
-  <a href="https://github.com/Ericles-Porty">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=7&theme=dracula"/>
- </div>
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula)
- 
+![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
+<!-- ![](https://komarev.com/ghpvc/?username=Ericles-Porty&style=for-the-badge&color=blueviolet)--> 
  <!-- GITHUB STATS -->
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=senpai-10&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | ------------- | ------------- |
