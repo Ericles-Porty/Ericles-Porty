@@ -10,6 +10,18 @@
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula)
  
+ <!-- GITHUB STATS -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=senpai-10&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| ------------- | ------------- |
+
+<!-- ------------------------------- -->
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ericles-Porty&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula) |
+| ------------- | ------------- |
+<!-- ------------------------------- -->
+
+<!-- GITHUB GRAPH -->
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ericles-Porty&theme=dracula&hide_border=true&area=true)
+ 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Eri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Eri-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
