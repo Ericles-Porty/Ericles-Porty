@@ -1,4 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ericles-Porty%20&fontAlignY=40&color=gradient)
+
  
 ![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
 <!-- ![](https://komarev.com/ghpvc/?username=Ericles-Porty&style=for-the-badge&color=blueviolet)--> 
@@ -7,7 +8,7 @@
 | ------------- | ------------- |
 
 <!-- ------------------------------- -->
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ericles-Porty&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula) |
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=7&theme=dracula) |
 | ------------- | ------------- |
 <!-- ------------------------------- -->
 
