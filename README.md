@@ -33,7 +33,7 @@
   <img align="center" alt="Eri-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Eri-VisualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Eri-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="right" alt="Eri-GIF" height="128" width="128" src="https://cdn.discordapp.com/attachments/727827658964205599/873772799464988732/final.gif">
+  <!--<img align="right" alt="Eri-GIF" height="128" width="128" src="https://cdn.discordapp.com/attachments/727827658964205599/873772799464988732/final.gif">-->
   
 </div>
   
