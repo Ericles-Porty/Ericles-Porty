@@ -1,7 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ericles-Porty%20&fontAlignY=40&color=gradient)
 
- 
-![](https://visitor-badge.glitch.me/badge?page_id=ericles-porty.ericles-porty)
+![Visitors on this repo](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ericles-porty.ericles-porty&color=bd93f9&style=for-the-badge&logo=Github)
 <!-- ![](https://komarev.com/ghpvc/?username=Ericles-Porty&style=for-the-badge&color=blueviolet)--> 
  <!-- GITHUB STATS -->
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=Ericles-Porty&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
