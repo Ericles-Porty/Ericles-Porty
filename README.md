@@ -15,28 +15,43 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ericles-Porty&theme=dracula&hide_border=true&area=true)
  
 <div style="display: inline_block"><br>  
-  <img align="center" alt="Eri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Eri-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Eri-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Eri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Eri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eri-Haskell" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
-  <img align="center" alt="Eri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Eri-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">  
-  <img align="center" alt="Eri-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">  
-  <img align="center" alt="Eri-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Eri-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Eri-SqlServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Eri-Dotnet-Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Eri-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Eri-VisualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Eri-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <!--<img align="right" alt="Eri-GIF" height="128" width="128" src="https://cdn.discordapp.com/attachments/727827658964205599/873772799464988732/final.gif">-->
   
+## LANGUAGES & FRAMEWORKS
+[![C](https://img.shields.io/badge/C-346AD6?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Ericles-Porty)
+[![C++](https://img.shields.io/badge/Cpp-2B9FFA?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Ericles-Porty)
+[![C#](https://img.shields.io/badge/C%23-8C3DD1?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Ericles-Porty)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/Ericles-Porty)
+[![ASP.NET](https://img.shields.io/badge/ASPNET-512BD4?style=for-the-badge&logo=asp&logoColor=white)](https://github.com/Ericles-Porty)
+[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ericles-Porty)
+[![Python](https://img.shields.io/badge/python-F0E91F?style=for-the-badge&logo=python&logoColor=black)](https://github.com/Ericles-Porty)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ericles-Porty)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ericles-Porty)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Ericles-Porty)
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=2B9FFA)](https://github.com/Ericles-Porty)
+[![DART](https://img.shields.io/badge/dart-2B9FFA?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Ericles-Porty)
+[![FLUTTER](https://img.shields.io/badge/flutter-2B9FFF?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Ericles-Porty)
+
+## DATABASES
+[![MYSQL](https://img.shields.io/badge/MySQL-3590CC?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Ericles-Porty)
+[![SQLSERVER](https://img.shields.io/badge/sqlserver-262D38?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)](https://github.com/Ericles-Porty)
+[![ORACLE](https://img.shields.io/badge/oracle-E82D38?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Ericles-Porty)
+
+## TOOLS
+[![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=E02F26)](https://github.com/Ericles-Porty)
+[![BASH](https://img.shields.io/badge/bash-0A272E?style=for-the-badge&logo=GNUBash&logoColor=white)](https://github.com/Ericles-Porty)
+[![VISUALSTUDIO](https://img.shields.io/badge/vs-9863D1?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/Ericles-Porty)
+[![VSCODE](https://img.shields.io/badge/vscode-3BA0E3?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Ericles-Porty)
+[![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://github.com/Ericles-Porty)
+[![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/Ericles-Porty)
+[![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Ericles-Porty)
+[![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Ericles-Porty)
+[![FONTAWESOME](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://github.com/Ericles-Porty)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Ericles-Porty)
+[![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Ericles-Porty)
 </div>
   
-  ##
+  ## CONTACTS
  
 <div> 
   <a href = "mailto:ericlesdsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
