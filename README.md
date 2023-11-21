@@ -1,9 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header"/>
+
 <!--![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ericles-Porty%20&fontAlignY=40&color=gradient) -->
 <!-- ![Visitors on this repo](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ericles-porty.ericles-porty&color=bd93f9&style=for-the-badge&logo=Github)-->
 <!-- ![](https://komarev.com/ghpvc/?username=Ericles-Porty&style=for-the-badge&color=blueviolet)--> 
  <!-- GITHUB STATS -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=Ericles-Porty&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
-| ------------- | ------------- |
+ <!--| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericles-Porty&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=Ericles-Porty&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| ------------- | ------------- |-->
 
 <!-- ------------------------------- -->
 |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=10&theme=dracula&hide=Jupyter%20Notebook,CMake) |
@@ -63,3 +65,4 @@
   ![Snake animation](https://github.com/Ericles-Porty/Ericles-Porty/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30A14E&height=120&section=footer"/>
