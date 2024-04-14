@@ -8,7 +8,7 @@
 | ------------- | ------------- |-->
 
 <!-- ------------------------------- -->
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=10&theme=dracula&hide=Jupyter%20Notebook,CMake&exclude_repo=Updater_Project_Deploy_Test) |
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ericles-porty&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericles-Porty&layout=compact&langs_count=10&theme=dracula&hide=Jupyter%20Notebook,CMake&exclude_repo=Updater_Project_Deploy_Test,eris-php-commerce) |
 | ------------- | ------------- |
 <!-- ------------------------------- -->
 
