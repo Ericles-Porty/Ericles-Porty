@@ -26,13 +26,15 @@
 [![ASP.NET](https://img.shields.io/badge/ASPNET-512BD4?style=for-the-badge&logo=asp&logoColor=white)](https://github.com/Ericles-Porty)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ericles-Porty)
 [![Python](https://img.shields.io/badge/python-F0E91F?style=for-the-badge&logo=python&logoColor=black)](https://github.com/Ericles-Porty)
-[![Php](https://img.shields.io/badge/php-A461F8?style=for-the-badge&logo=php&logoColor=black)](https://github.com/Ericles-Porty)
+[![PHP](https://img.shields.io/badge/php-A461F8?style=for-the-badge&logo=php&logoColor=black)](https://github.com/Ericles-Porty)
+[![ELIXIR](https://img.shields.io/badge/elixir-CCCCCC?style=for-the-badge&logo=elixir&logoColor=purple)](https://github.com/Ericles-Porty)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ericles-Porty)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ericles-Porty)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Ericles-Porty)
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=2B9FFA)](https://github.com/Ericles-Porty)
 [![DART](https://img.shields.io/badge/dart-2B9FFA?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Ericles-Porty)
 [![FLUTTER](https://img.shields.io/badge/flutter-2B9FFF?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Ericles-Porty)
+
 
 ## DATABASES
 [![MYSQL](https://img.shields.io/badge/MySQL-3590CC?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Ericles-Porty)
