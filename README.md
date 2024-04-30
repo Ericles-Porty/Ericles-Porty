@@ -32,7 +32,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ericles-Porty)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Ericles-Porty)
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=2B9FFA)](https://github.com/Ericles-Porty)
-[![NODEJS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)](https://github.com/Ericles-Porty)
 
 [![DART](https://img.shields.io/badge/dart-2B9FFA?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Ericles-Porty)
 [![FLUTTER](https://img.shields.io/badge/flutter-2B9FFF?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Ericles-Porty)
@@ -52,6 +51,7 @@
 [![BASH](https://img.shields.io/badge/bash-0A272E?style=for-the-badge&logo=GNUBash&logoColor=white)](https://github.com/Ericles-Porty)
 [![VSCODE](https://img.shields.io/badge/vscode-3BA0E3?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Ericles-Porty)
 [![VISUALSTUDIO](https://img.shields.io/badge/vs-9863D1?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/Ericles-Porty)
+[![NODEJS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)](https://github.com/Ericles-Porty)
 [![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://github.com/Ericles-Porty)
 [![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/Ericles-Porty)
 [![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Ericles-Porty)
