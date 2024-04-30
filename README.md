@@ -24,35 +24,41 @@
 [![C#](https://img.shields.io/badge/C%23-8C3DD1?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/Ericles-Porty)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/Ericles-Porty)
 [![ASP.NET](https://img.shields.io/badge/ASPNET-512BD4?style=for-the-badge&logo=asp&logoColor=white)](https://github.com/Ericles-Porty)
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ericles-Porty)
+[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Ericles-Porty)
 [![Python](https://img.shields.io/badge/python-F0E91F?style=for-the-badge&logo=python&logoColor=black)](https://github.com/Ericles-Porty)
-[![PHP](https://img.shields.io/badge/php-A461F8?style=for-the-badge&logo=php&logoColor=black)](https://github.com/Ericles-Porty)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](https://github.com/Ericles-Porty)
 [![ELIXIR](https://img.shields.io/badge/elixir-CCCCCC?style=for-the-badge&logo=elixir&logoColor=purple)](https://github.com/Ericles-Porty)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ericles-Porty)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ericles-Porty)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Ericles-Porty)
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=2B9FFA)](https://github.com/Ericles-Porty)
+[![NODEJS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)](https://github.com/Ericles-Porty)
+
 [![DART](https://img.shields.io/badge/dart-2B9FFA?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Ericles-Porty)
 [![FLUTTER](https://img.shields.io/badge/flutter-2B9FFF?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Ericles-Porty)
 
 
 ## DATABASES
+[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](https://github.com/Ericles-Porty)
 [![MYSQL](https://img.shields.io/badge/MySQL-3590CC?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Ericles-Porty)
 [![SQLSERVER](https://img.shields.io/badge/sqlserver-262D38?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)](https://github.com/Ericles-Porty)
 [![ORACLE](https://img.shields.io/badge/oracle-E82D38?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/Ericles-Porty)
+[![Redis](https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge)](https://github.com/Ericles-Porty)
 
 ## TOOLS
 [![GIT](https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=E02F26)](https://github.com/Ericles-Porty)
+[![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Ericles-Porty)
+[![NGINX](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)](https://github.com/Ericles-Porty)
 [![BASH](https://img.shields.io/badge/bash-0A272E?style=for-the-badge&logo=GNUBash&logoColor=white)](https://github.com/Ericles-Porty)
-[![VISUALSTUDIO](https://img.shields.io/badge/vs-9863D1?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/Ericles-Porty)
 [![VSCODE](https://img.shields.io/badge/vscode-3BA0E3?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Ericles-Porty)
+[![VISUALSTUDIO](https://img.shields.io/badge/vs-9863D1?style=for-the-badge&logo=visualstudio&logoColor=white)](https://github.com/Ericles-Porty)
 [![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://github.com/Ericles-Porty)
 [![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/Ericles-Porty)
-[![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Ericles-Porty)
 [![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Ericles-Porty)
 [![FONTAWESOME](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](https://github.com/Ericles-Porty)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Ericles-Porty)
 [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Ericles-Porty)
+
 </div>
   
   ## CONTACTS
