@@ -70,7 +70,7 @@
   <a href="https://www.facebook.com/ericlesdsantos" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericles-dos-santos-cunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Ericles-Porty/Ericles-Porty/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ericles-Porty/Ericles-Porty/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
  
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30A14E&height=120&section=footer"/>
